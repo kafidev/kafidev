@@ -1,5 +1,4 @@
-<img width="533" height="224" alt="Screenshot 2026-07-12 215959" src="https://github.com/user-attachments/assets/9191f139-8ab5-45c8-8dfc-e339310d22be" />
-<img width="533" height="224" alt="Screenshot 2026-07-12 215959" src="https://github.com/user-attachments/assets/1d9aa271-267e-45d0-b1fc-b6ccfd79a04e" />
+
 # Abdikafi Yusuf Mohamed
 **Software Engineer & Computer Engineering Student**  
 *Specializing in scalable full-stack architectures, modern JavaScript ecosystems, and hardware-software integration.*
