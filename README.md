@@ -1,3 +1,4 @@
+<img width="3198" height="1344" alt="Gemini_Generated_Image_nmuxh9nmuxh9nmux" src="https://github.com/user-attachments/assets/e839cf51-85b6-45c3-a41b-f564de01cf5e" />
 
 
 # Abdikafi Yusuf Mohamed
