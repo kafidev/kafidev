@@ -1,4 +1,4 @@
-<img width="3198" height="1344" alt="Gemini_Generated_Image_wysiyywysiyywysi" src="https://github.com/user-attachments/assets/8a8e8917-4800-4011-97fe-6b00e6c10923" />
+
 
 # Abdikafi Yusuf Mohamed
 **Software Engineer & Computer Engineering Student**  
@@ -30,6 +30,7 @@ A detail-oriented Software Engineer focused on architecting modular, high-perfor
 | **Hardware & Embedded** | Arduino Uno, NodeMCU, Digital Logic Gates, Microcontroller Programming |
 
 ---
+<img width="3198" height="1344" alt="Gemini_Generated_Image_wysiyywysiyywysi" src="https://github.com/user-attachments/assets/8a8e8917-4800-4011-97fe-6b00e6c10923" />
 
 ### 📈 Metrics & Activity
 
